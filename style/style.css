@@ -1,4 +1,4 @@
-p {
+a {
   color: brown;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   margin-left: auto;
@@ -16,5 +16,9 @@ th {
 
 table {
   border: dotted 7px brown;
-  }
+}
 
+.images{
+  height: 500px;
+  width: 500px;
+}
