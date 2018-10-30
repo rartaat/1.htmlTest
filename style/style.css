@@ -1,0 +1,20 @@
+p {
+  color: brown;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  margin-left: auto;
+};
+
+tr {
+  color: black;
+  border: solid 3px red;
+}
+
+th {
+  color: black;
+  border: solid 3px red;
+}
+
+table {
+  border: dotted 7px brown;
+  }
+
