@@ -1,7 +1,6 @@
 a {
   color: brown;
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-  margin-left: auto;
 };
 
 tr {
@@ -16,9 +15,18 @@ th {
 
 table {
   border: dotted 7px brown;
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
 
 .images{
   height: 500px;
   width: 500px;
+}
+
+body {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
 }
